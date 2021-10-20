@@ -1,0 +1,17 @@
+{
+  "name": "vrc-bot",
+  "version": "1.0.0",
+  "description": "VRChat Bot",
+  "main": "index.js",
+  "author": "Lucas Rocha",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "eslint": "^8.0.1"
+  },
+  "dependencies": {
+    "axios": "^0.23.0",
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0"
+  }
+}
